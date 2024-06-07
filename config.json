@@ -1,0 +1,17 @@
+{
+  "_comments": {
+    "phanloaitrung": "Bật/Tắt phân loại trứng tự động NOTE: lưu ý khi bật phân loại trứng sẽ không tự động ấp trứng",
+    "authhatchegg": "Bật/Tắt chức năng ấp trứng tự động",
+    "license_key": "Mã giấy phép để xác minh hợp lệ của ứng dụng",
+    "auth": "Mã thông báo xác thực Bearer để xác thực người dùng",
+    "dohiemtrung": "Độ hiếm trứng muốn thu hoạch và phân loại NOTE: độ hiếm tăng dần theo cấp độ trứng ví dụ common: 3 uncommon: 4",
+    "delaythuhoachtrung": "độ trễ khi thu hoạch trứng tính theo mili sec"
+  },
+  "delaythuhoachtrung": 1500,
+  "dohiemtrung": 5,
+  "phanloaitrung": false,
+  "autohatchegg": false,
+  "license_key": "4988f70f1119882a1b029c0d4085ee5d",
+  "auth": "Bearer xxxxxxxxxx"
+  }
+  
